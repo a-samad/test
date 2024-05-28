@@ -9,3 +9,6 @@ Platform mostly serves as the backend for API and platform. It is over Laravel 5
 2) Git
 
 3) Stop Kaspersky on your system, if running, by `sudo service kesl-supervisor stop`
+
+
+content to revert....
